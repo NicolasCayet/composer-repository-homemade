@@ -1,0 +1,35 @@
+{
+    "packages": {
+        "justfortest/repo1": {
+            "dev-master": {
+                "name": "justfortest/repo1",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/NicolasCayet/repo-composer.git",
+                    "reference": "7e3678a594bb33d2eb84ddc1c9bbddc8df9621e0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/NicolasCayet/repo-composer/zipball/7e3678a594bb33d2eb84ddc1c9bbddc8df9621e0",
+                    "reference": "7e3678a594bb33d2eb84ddc1c9bbddc8df9621e0",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.3.0"
+                },
+                "time": "2014-04-01 18:00:00",
+                "type": "application",
+                "license": [
+                    "GNU General Public License"
+                ],
+                "description": "ROMGe",
+                "support": {
+                    "source": "https://github.com/NicolasCayet/repo-composer/tree/master",
+                    "issues": "https://github.com/NicolasCayet/repo-composer/issues"
+                }
+            }
+        }
+    }
+}

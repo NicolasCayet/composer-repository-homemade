@@ -1,0 +1,10 @@
+{
+    "name": "My Own Repository",
+    "homepage": "http://composer-repo-gen.local:8888",
+    "repositories": [
+        { "type": "vcs", "url": "git@github.com:NicolasCayet/repo-composer.git" }
+    ],
+    "require": {
+        "justfortest/repo1": "*"
+    }
+}
